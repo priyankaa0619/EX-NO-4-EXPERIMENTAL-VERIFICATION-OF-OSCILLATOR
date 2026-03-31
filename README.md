@@ -58,15 +58,12 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+![WhatsApp Image 2026-03-31 at 11 09 59 AM](https://github.com/user-attachments/assets/cdd773d7-9ab7-4f2f-91c8-b772e95be5d7)
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-31 at 11 10 51 AM](https://github.com/user-attachments/assets/ad37235e-a49d-43fa-900b-72d969393cee)
+
 
 
 ---
@@ -125,15 +122,11 @@ Rf = 15K *2=30KΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+![WhatsApp Image 2026-03-31 at 11 11 40 AM](https://github.com/user-attachments/assets/1349161d-482e-428e-a8c2-a79155e6e38f)
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-31 at 11 11 40 AM](https://github.com/user-attachments/assets/561b73c8-45c6-4bae-a150-e1a606f93eaa)
 
 
 ---
